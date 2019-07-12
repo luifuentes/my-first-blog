@@ -1,1 +1,1 @@
-Django~=2.0.6
+pipDjango~=2.0.6
